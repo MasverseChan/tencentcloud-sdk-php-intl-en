@@ -19,7 +19,7 @@
         "psr-4": {
             "TencentCloud\\": "./src/TencentCloud"
         }
-    }
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
