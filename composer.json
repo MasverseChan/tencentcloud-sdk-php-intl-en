@@ -1,15 +1,12 @@
 {
-    "name": "tencentcloud/tencentcloud-sdk-php-intl-en",
+    "name": "vccmas/tencentcloud-sdk-php-intl-en",
     "description": "TencentCloudApi php sdk",
     "type": "library",
-    "homepage": "https://github.com/TencentCloud/tencentcloud-sdk-php-intl-en",
+    "homepage": "https://github.com/MasverseChan/tencentcloud-sdk-php-intl-en",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "coolli",
-            "email": "tencentcloudapi@tencent.com",
-            "homepage": "https://intl.cloud.tencent.com/document/sdk/PHP",
-            "role": "Developer"
+            "name": "vccmas",
         }
     ],
     "require": {
