@@ -20,4 +20,6 @@
             "TencentCloud\\": "./src/TencentCloud"
         }
     }
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
